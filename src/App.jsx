@@ -5,6 +5,7 @@ export default function App() {
     <main>
       React ⚛️ + Vite ⚡ + Replit 🌀
       assasa
+      hahahha
     </main>
   )
 }
